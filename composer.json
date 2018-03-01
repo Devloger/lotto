@@ -1,0 +1,19 @@
+{
+  "name": "Devloger/lotto",
+  "description": "My Lotto System",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Devloger",
+      "email": "Devloger22@gmail.com"
+    }
+  ],
+  "autoload":
+  {
+    "psr-4":
+    {
+      "App\\": "App/"
+    }
+  }
+}
